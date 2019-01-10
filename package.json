@@ -1,0 +1,23 @@
+{
+  "name": "flic-win",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pair": "node pair.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierBoubert/flic-win.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierBoubert/flic-win/issues"
+  },
+  "homepage": "https://github.com/XavierBoubert/flic-win#readme",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
